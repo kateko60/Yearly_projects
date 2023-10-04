@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\bin\Debug\array of objects.exe.config
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\bin\Debug\array of objects.exe
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\bin\Debug\array of objects.pdb
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\obj\Debug\array of objects.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\obj\Debug\array of objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\obj\Debug\array of objects.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\obj\Debug\array of objects.exe
+C:\Users\Sam\Desktop\Lab Experiments\array of objects\array of objects\obj\Debug\array of objects.pdb

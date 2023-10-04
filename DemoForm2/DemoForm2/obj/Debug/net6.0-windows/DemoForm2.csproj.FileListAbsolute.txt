@@ -1,0 +1,17 @@
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\bin\Debug\net6.0-windows\DemoForm2.exe
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\bin\Debug\net6.0-windows\DemoForm2.deps.json
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\bin\Debug\net6.0-windows\DemoForm2.runtimeconfig.json
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\bin\Debug\net6.0-windows\DemoForm2.dll
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\bin\Debug\net6.0-windows\DemoForm2.pdb
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.Form1.resources
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.dll
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\refint\DemoForm2.dll
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.pdb
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\DemoForm2.genruntimeconfig.cache
+C:\Users\Sam\Desktop\Lab Experiments\DemoForm2\DemoForm2\obj\Debug\net6.0-windows\ref\DemoForm2.dll

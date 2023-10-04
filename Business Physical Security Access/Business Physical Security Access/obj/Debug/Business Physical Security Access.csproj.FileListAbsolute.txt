@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\bin\Debug\Business Physical Security Access.exe.config
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\bin\Debug\Business Physical Security Access.exe
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\bin\Debug\Business Physical Security Access.pdb
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\obj\Debug\Business Physical Security Access.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\obj\Debug\Business Physical Security Access.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\obj\Debug\Business Physical Security Access.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\obj\Debug\Business Physical Security Access.exe
+C:\Users\Sam\Desktop\Lab Experiments\Business Physical Security Access\Business Physical Security Access\obj\Debug\Business Physical Security Access.pdb
